@@ -3,8 +3,6 @@
     <title>Notatnik</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
-    <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet"> -->
-     <!-- Link to other fonthawsome -->
     <link href="/public/style.css" rel="stylesheet">
   </head>
   <body class="body">

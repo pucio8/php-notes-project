@@ -1,5 +1,4 @@
 <div>
-  <!-- <?php dump($params['page'])?> -->
   <section>
     <div class='message' >
       <?php

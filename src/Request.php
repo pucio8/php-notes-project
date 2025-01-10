@@ -34,5 +34,4 @@ class Request
     public function postParam(string $name, $default = null) {
         return $this->post[ $name ] ?? $default;
     }
-
 }

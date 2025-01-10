@@ -42,5 +42,4 @@ abstract class AbstractModel
             throw new ConfigurationException( 'Configuration error' );
         }
     }
-
 }
